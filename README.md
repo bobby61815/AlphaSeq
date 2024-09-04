@@ -1,6 +1,6 @@
 # Introduction
 
-A Alpha Bio is a company, located in Seattle, WA. Based on their company website, they have AlphaSeq and AlphaBind two platform (https://www.aalphabio.com/technology/). This company was founded based on the founder's PNAS paper published in 2017. In order to understand more on this company, I read his paper and original codes in order to reproduce their figures.  
+A Alpha Bio is a company, located in Seattle, WA. Based on their company website, they have AlphaSeq and AlphaBind two platform (https://www.aalphabio.com/technology/). This company was founded based on the founder David Younger's 2017 PNAS paper. In order to understand more on this company, I read his paper and original codes in order to reproduce their figures.  
 
 
 # Paper
