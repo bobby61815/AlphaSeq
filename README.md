@@ -9,5 +9,5 @@ After that, they designed libraries with barcode technology and used NGS analysi
 By using approach, they can characterize the binding strength between designed protein libraries and multiple target proteins in a high-throughput approach.
 
 # Reference 
-[1] https://www.aalphabio.com/technology/
+[1] https://www.aalphabio.com/technology/  
 [2] https://www.pnas.org/doi/10.1073/pnas.1705867114
